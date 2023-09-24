@@ -1,1 +1,8 @@
-SAmple PAGE
+<html>
+<head>
+<title> Sample Page</title>
+</head>
+<body>
+<h1>Sample Text</h1>
+</body>
+</html>
